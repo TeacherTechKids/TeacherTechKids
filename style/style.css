@@ -1,0 +1,33 @@
+header {
+    background-color: red;
+    padding:20px;
+    text-align:center;
+}
+#header {
+background-color: #333;
+padding: 10px;
+}
+
+#nav {
+display: flex;
+justify-content:space-around;
+}
+
+#nav-link {
+color: white;
+text-decoration: none;
+}
+
+#p {
+color:yellow;
+background-color: green;
+
+}
+
+
+#idin {
+color: red;
+background-color:blue;
+padding:20px;
+text-align:center;
+}
