@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch('files/files/header.html')
+  fetch('files/header.html')
   .then(response => response.text())
   .then(data => document.querySelector('header').innerHTML = data);
 
